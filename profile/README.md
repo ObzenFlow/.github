@@ -1,4 +1,4 @@
-  <p align="center"><img src="./assets/obzenflow-logo-banner.png" alt="ObzenFlow"
+  <p align="center"><img src="../assets/obzenflow-logo-banner.png" alt="ObzenFlow"
   width="520"></p>
 
   # ObzenFlow
@@ -11,7 +11,7 @@
   state, verify a replay against the original run, and resume interrupted work without
   re-firing committed effects.
 
-  <p align="center"><img src="./assets/durable-execution-stack.png" alt="ObzenFlow
+  <p align="center"><img src="../assets/durable-execution-stack.png" alt="ObzenFlow
   durable execution stack: syntax, runtime, journals, replay, and pluggable
   infrastructure" width="100%"></p>
 
